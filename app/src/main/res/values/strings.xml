@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Phone Activities</string>
+    <string name="title_home">Flash Light</string>
+    <string name="title_dashboard">Beep</string>
+    <string name="title_notifications">Shake</string>
+    <string name="title_bluetooth">Bluetooth</string>
+    <string name="title_activity_bluetooth_main">BluetoothMain</string>
+</resources>
